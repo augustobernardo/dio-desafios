@@ -1,4 +1,4 @@
-# Repositório de desafios da DIO
+# Repositório de desafios da DIO :books:
 
 ### Projeto de Git/GitHub
 * Criar um repositório para compartilhar anotações e desafios.
