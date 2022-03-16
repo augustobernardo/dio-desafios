@@ -20,14 +20,6 @@ Em projetos tradicionais (Waterfall), você corre o risco de descobrir que estav
 
 
 
-  ![](C:\Users\gutoo\Desktop\DIO - Repositórios dos Desafios\dio-desafios\Introdução ao SCRUM\waterfall gestão de projetos.jpg)
-
-
-
-
-
-
-
 * **Ágil**
 
   Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo).
@@ -42,7 +34,7 @@ Em projetos tradicionais (Waterfall), você corre o risco de descobrir que estav
   >
   > Mudanças constantes de acordo com feedbacks contínuos.
 
-  ![](C:\Users\gutoo\Desktop\DIO - Repositórios dos Desafios\dio-desafios\Introdução ao SCRUM\modelo ágil gestão de projetos.png)
+ 
 
 ## O que é ser Ágil?
 
